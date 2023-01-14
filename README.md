@@ -7,8 +7,6 @@ ScreenShots
 ![Home](Screenshots/Screenshot%20(18).png)
 
 
-![AdminPanel](Screenshots/Screenshot%20(19).png)
-
 
 ![AdminPanel](Screenshots/Screenshot%20(20).png)
 
